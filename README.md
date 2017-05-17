@@ -15,3 +15,6 @@ It includes:
 - conversion: natural language -> pseudocode -> functions -> machine code etc.
 
 
+links:
+http://wiki.c2.com/?AssemblyLanguage
+http://menuetos.net/
