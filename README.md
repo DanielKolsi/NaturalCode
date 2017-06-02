@@ -19,3 +19,6 @@ links:
 http://wiki.c2.com/?AssemblyLanguage
 http://wiki.c2.com/?TheSimplestPossibleCompiler
 http://menuetos.net/
+https://rare-technologies.com/doc2vec-tutorial/
+
+https://github.com/jhlau/doc2vec
